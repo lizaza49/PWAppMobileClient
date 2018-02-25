@@ -1,34 +1,29 @@
-﻿<Properties StartupConfiguration="{58BC45EF-60E9-4BF6-8B1D-65549593C122}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="ParriotWings/Utilities/ViewModelLocator.cs">
+﻿<Properties StartupConfiguration="{454DEE9F-4FF0-4E76-A0DE-F556E8B291EB}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Droid/Fragments/SignInFragment.cs">
     <Files>
-      <File FileName="ParriotWings/Services/Web/Abstract/IAccountService.cs" Line="10" Column="70" />
-      <File FileName="ParriotWings/ViewModels/TransactionsViewModel.cs" Line="15" Column="9" />
-      <File FileName="ParriotWings/ViewModels/NewTransactionViewModel.cs" Line="104" Column="1" />
-      <File FileName="iOS/ViewControllers/SelectUserViewController.cs" Line="48" Column="23" />
-      <File FileName="iOS/ViewControllers/SelectUserViewController.designer.cs" Line="21" Column="63" />
-      <File FileName="iOS/ViewControllers/NewTransactionViewController.cs" Line="26" Column="42" />
-      <File FileName="ParriotWings/Managers/Abstract/ITransactionManager.cs" Line="11" Column="36" />
-      <File FileName="iOS/ViewControllers/NewTransactionViewController.designer.cs" Line="73" Column="87" />
-      <File FileName="iOS/ViewControllers/TransactionsViewController.designer.cs" Line="34" Column="10" />
-      <File FileName="ParriotWings/Entities/PWUser.cs" Line="6" Column="18" />
-      <File FileName="ParriotWings/Services/Web/Requests/GetPWUsersList.cs" Line="20" Column="61" />
-      <File FileName="iOS/ViewControllers/TransactionsViewController.cs" Line="58" Column="10" />
-      <File FileName="ParriotWings/Utilities/CrossPlatformModule.cs" Line="21" Column="45" />
-      <File FileName="ParriotWings/Utilities/ViewModelLocator.cs" Line="28" Column="60" />
+      <File FileName="Droid/Utilities/DroidNavigationService.cs" Line="14" Column="18" />
+      <File FileName="Droid/Utilities/Bootstrap.cs" Line="36" Column="36" />
+      <File FileName="Droid/Properties/AndroidManifest.xml" Line="4" Column="127" />
+      <File FileName="Droid/Activities/MainActivity.cs" Line="9" Column="1" />
+      <File FileName="Droid/Fragments/MainFragment.cs" Line="2" Column="43" />
+      <File FileName="Droid/Fragments/BaseFragment.cs" Line="9" Column="30" />
+      <File FileName="iOS/ViewControllers/MainViewController.cs" Line="15" Column="101" />
+      <File FileName="Droid/Fragments/SignInFragment.cs" Line="10" Column="57" />
+      <File FileName="Droid/MainApplication.cs" Line="1" Column="1" />
+      <File FileName="iOS/Main.cs" Line="15" Column="39" />
+      <File FileName="ParriotWings/Utilities/ViewModelLocator.cs" Line="4" Column="1" />
+      <File FileName="Droid/Activities/SplashActivity.cs" Line="1" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore>
-      <Breakpoint file="/Users/elizavetaalekseeva/Projects/ParriotWings/ParriotWings/ViewModels/NewTransactionViewModel.cs" relfile="ParriotWings/ViewModels/NewTransactionViewModel.cs" line="140" column="1" />
-      <Breakpoint file="/Users/elizavetaalekseeva/Projects/ParriotWings/ParriotWings/ViewModels/NewTransactionViewModel.cs" relfile="ParriotWings/ViewModels/NewTransactionViewModel.cs" line="109" column="1" />
-      <Breakpoint file="/Users/elizavetaalekseeva/Projects/ParriotWings/ParriotWings/ViewModels/NewTransactionViewModel.cs" relfile="ParriotWings/ViewModels/NewTransactionViewModel.cs" line="141" column="1" />
-      <Breakpoint file="/Users/elizavetaalekseeva/Projects/ParriotWings/ParriotWings/ViewModels/NewTransactionViewModel.cs" relfile="ParriotWings/ViewModels/NewTransactionViewModel.cs" line="104" column="1" />
+      <Breakpoint file="/Users/elizavetaalekseeva/Projects/PWAppMobileClient/Droid/Fragments/SignInFragment.cs" relfile="Droid/Fragments/SignInFragment.cs" line="15" column="1" />
+      <Breakpoint file="/Users/elizavetaalekseeva/Projects/PWAppMobileClient/ParriotWings/Utilities/ViewModelLocator.cs" relfile="ParriotWings/Utilities/ViewModelLocator.cs" line="34" column="1" />
     </BreakpointStore>
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.ItemProperties.ParriotWings.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.17A57DBD-168F-4DB2-8FD9-A784A6EF3C9A" automaticSigning="False">
-    <MonoDevelop.MacDev.AppleDevelopmentTeam />
-  </MonoDevelop.Ide.ItemProperties.ParriotWings.iOS>
+  <MonoDevelop.Ide.ItemProperties.ParriotWings.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.BF28655E-6EC3-41E3-A89F-A67217982FD6" />
   <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.ParriotWings.Droid PreferredExecutionTarget="Android.Pixel_API_25" AndroidDesignerPreferredTheme="MyTheme" />
 </Properties>

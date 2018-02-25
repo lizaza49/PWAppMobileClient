@@ -7,10 +7,6 @@ namespace ParriotWings.iOS.Utilities
 {
     public class PlatformModule : Module
     {
-        public PlatformModule()
-        {
-        }
-
         protected override void Load(ContainerBuilder builder)
         {
             var nav = new IOSNavigationService();

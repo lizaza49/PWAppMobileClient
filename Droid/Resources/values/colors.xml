@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary">@color/dark_sky_blue</color>
+    <color name="primary_dark">#125688</color>
+    <color name="text_primary">#FFFFFF</color>
+    <color name="window_background">#FFFFFF</color>
+    <color name="navigation_bar_color">#00FF00</color>
+    <color name="accent">#c8e8ff</color>
+    <color name="splash_background">#FFFFFF</color>
+    <color name="dark_sky_blue">#4A90E2</color>
+    <color name="default_color">#4A90E2</color>
+</resources>

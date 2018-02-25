@@ -22,9 +22,9 @@ namespace ParriotWings.iOS.ViewControllers
             InitializeComponent();
 
             //test
-            EmailTextField.Text = "testSignUp@test.com";
-            NameTextField.Text = "testSignUp";
-            PasswordTextField.Text = "qwerty12345";
+            EmailTextField.Text = "test5@test.com";
+            NameTextField.Text = "test5";
+            PasswordTextField.Text = "123";
 
             // Bindings
             SetupBinding();
