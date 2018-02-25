@@ -10,7 +10,7 @@ namespace ParriotWings.Droid.Utilities
             Type[] types =
             {
                     typeof(DroidLocalStorage),
-                    typeof(DroidDialogService),
+                    typeof(ThreadSafeDroidDialogService),
                     typeof(LocaleService)
             };
             builder.RegisterTypes(types).AsImplementedInterfaces();

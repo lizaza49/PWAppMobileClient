@@ -1,1 +1,8 @@
-﻿AppBarLayout.class
+﻿MainActivity.class
+SplashActivity.class
+MainApplication.class
+mono/android/app/ApplicationRegistration.class
+mono/android/app/NotifyTimeZoneChanges.class
+mono/MonoRuntimeProvider.class
+mono/MonoPackageManager.class
+mono/MonoPackageManager_Resources.class

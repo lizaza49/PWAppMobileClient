@@ -1,29 +1,40 @@
 ﻿<Properties StartupConfiguration="{454DEE9F-4FF0-4E76-A0DE-F556E8B291EB}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Droid/Fragments/SignInFragment.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ParriotWings/ViewModels/MainViewModel.cs">
     <Files>
-      <File FileName="Droid/Utilities/DroidNavigationService.cs" Line="14" Column="18" />
-      <File FileName="Droid/Utilities/Bootstrap.cs" Line="36" Column="36" />
-      <File FileName="Droid/Properties/AndroidManifest.xml" Line="4" Column="127" />
-      <File FileName="Droid/Activities/MainActivity.cs" Line="9" Column="1" />
-      <File FileName="Droid/Fragments/MainFragment.cs" Line="2" Column="43" />
-      <File FileName="Droid/Fragments/BaseFragment.cs" Line="9" Column="30" />
-      <File FileName="iOS/ViewControllers/MainViewController.cs" Line="15" Column="101" />
-      <File FileName="Droid/Fragments/SignInFragment.cs" Line="10" Column="57" />
+      <File FileName="Droid/Properties/Multidex.txt" Line="8" Column="31" />
+      <File FileName="Droid/Fragments/MainFragment.cs" Line="15" Column="1" />
+      <File FileName="Droid/Activities/MainActivity.cs" Line="12" Column="2" />
+      <File FileName="Droid/Fragments/SignInFragment.cs" Line="1" Column="1" />
+      <File FileName="Droid/Utilities/Bootstrap.cs" Line="36" Column="1" />
+      <File FileName="../../../../Library/Frameworks/Mono.framework/Versions/5.4.1/lib/mono/xbuild/Microsoft/Portable/v4.5/Microsoft.Portable.CSharp.targets" Line="17" Column="5" />
+      <File FileName="ParriotWings/Utilities/ViewModelLocator.cs" Line="34" Column="1" />
+      <File FileName="ParriotWings/ViewModels/MainViewModel.cs" Line="160" Column="1" />
       <File FileName="Droid/MainApplication.cs" Line="1" Column="1" />
-      <File FileName="iOS/Main.cs" Line="15" Column="39" />
-      <File FileName="ParriotWings/Utilities/ViewModelLocator.cs" Line="4" Column="1" />
-      <File FileName="Droid/Activities/SplashActivity.cs" Line="1" Column="1" />
+      <File FileName="Droid/Utilities/PlatformModule.cs" Line="16" Column="1" />
+      <File FileName="ParriotWings/Services/Web/Base/RequestHelper.cs" Line="24" Column="1" />
+      <File FileName="ParriotWings/Services/Web/AccountService.cs" Line="17" Column="1" />
+      <File FileName="Droid/Utilities/DroidLocalStorage.cs" Line="19" Column="1" />
+      <File FileName="ParriotWings/Managers/AccountManager.cs" Line="22" Column="1" />
+      <File FileName="ParriotWings/Managers/LocaleManager.cs" Line="23" Column="1" />
+      <File FileName="Droid/Utilities/ThreadSafeDroidDialogService.cs" Line="12" Column="44" />
+      <File FileName="Droid/Utilities/LocaleService.cs" Line="1" Column="1" />
+      <File FileName="Droid/Utilities/DroidDialogService.cs" Line="285" Column="83" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore>
       <Breakpoint file="/Users/elizavetaalekseeva/Projects/PWAppMobileClient/Droid/Fragments/SignInFragment.cs" relfile="Droid/Fragments/SignInFragment.cs" line="15" column="1" />
-      <Breakpoint file="/Users/elizavetaalekseeva/Projects/PWAppMobileClient/ParriotWings/Utilities/ViewModelLocator.cs" relfile="ParriotWings/Utilities/ViewModelLocator.cs" line="34" column="1" />
+      <Breakpoint file="/Users/elizavetaalekseeva/Projects/PWAppMobileClient/Droid/Fragments/MainFragment.cs" relfile="Droid/Fragments/MainFragment.cs" line="15" column="1" />
+      <Breakpoint file="/Users/elizavetaalekseeva/Projects/PWAppMobileClient/ParriotWings/ViewModels/MainViewModel.cs" relfile="ParriotWings/ViewModels/MainViewModel.cs" line="160" column="1" />
+      <Breakpoint file="/Users/elizavetaalekseeva/Projects/PWAppMobileClient/Droid/Activities/MainActivity.cs" relfile="Droid/Activities/MainActivity.cs" line="38" column="1" />
+      <Breakpoint file="/Users/elizavetaalekseeva/Projects/PWAppMobileClient/Droid/Utilities/LocaleService.cs" relfile="Droid/Utilities/LocaleService.cs" line="31" column="1" />
+      <Breakpoint file="/Users/elizavetaalekseeva/Projects/PWAppMobileClient/Droid/Utilities/LocaleService.cs" relfile="Droid/Utilities/LocaleService.cs" line="23" column="1" />
+      <Breakpoint file="/Users/elizavetaalekseeva/Projects/PWAppMobileClient/Droid/Utilities/LocaleService.cs" relfile="Droid/Utilities/LocaleService.cs" line="24" column="1" />
     </BreakpointStore>
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.ItemProperties.ParriotWings.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.BF28655E-6EC3-41E3-A89F-A67217982FD6" />
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.ItemProperties.ParriotWings.Droid PreferredExecutionTarget="Android.Pixel_API_25" AndroidDesignerPreferredTheme="MyTheme" />
+  <MonoDevelop.Ide.ItemProperties.ParriotWings.Droid PreferredExecutionTarget="Android.ZSMFNFDQLFGQWWU4" />
 </Properties>
