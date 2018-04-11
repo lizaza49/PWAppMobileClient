@@ -5,11 +5,11 @@ using Plugin.CurrentActivity;
 
 namespace ParriotWings.Droid.Utilities
 {
-    public class DroidDialogService : IDialogService
+    public class ThreadSafeDroidDialogService : IDialogService
     {
         private IDialogService unsafeService;
 
-        public DroidDialogService()
+        public ThreadSafeDroidDialogService()
         {
             unsafeService = new DroidDialogService();
         }

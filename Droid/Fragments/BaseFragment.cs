@@ -10,6 +10,10 @@ namespace ParriotWings.Droid.Fragments
     {
         protected readonly List<Binding> Bindings = new List<Binding>();
 
+        public BaseFragment()
+        {
+        }
+
         public override void OnDestroyView()
         {
             foreach (var binding in Bindings)
