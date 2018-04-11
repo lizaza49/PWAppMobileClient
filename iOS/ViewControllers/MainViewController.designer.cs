@@ -118,7 +118,7 @@ namespace ParriotWings.iOS.ViewControllers
         {
             var constraints = new[]
             {
-                NSLayoutConstraint.Create(BalanceCard, NSLayoutAttribute.Top, NSLayoutRelation.Equal, View, NSLayoutAttribute.Top, 1, 80),
+                NSLayoutConstraint.Create(BalanceCard, NSLayoutAttribute.Top, NSLayoutRelation.Equal, View, NSLayoutAttribute.Top, 1, 120),
                 NSLayoutConstraint.Create(BalanceCard, NSLayoutAttribute.Left, NSLayoutRelation.Equal, View, NSLayoutAttribute.Left, 1, 28),
                 NSLayoutConstraint.Create(BalanceCard, NSLayoutAttribute.Right, NSLayoutRelation.Equal, View, NSLayoutAttribute.Right, 1, -28),
                 NSLayoutConstraint.Create(BalanceCard, NSLayoutAttribute.Height, NSLayoutRelation.Equal, null, NSLayoutAttribute.Height, 1, 107),

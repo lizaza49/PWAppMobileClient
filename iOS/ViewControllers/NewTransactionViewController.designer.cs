@@ -80,7 +80,7 @@ namespace ParriotWings.iOS.ViewControllers
         {
             var constraints = new[]
             {
-                NSLayoutConstraint.Create(SelectUserButton, NSLayoutAttribute.Top, NSLayoutRelation.Equal, View, NSLayoutAttribute.Top, 1, 96),
+                NSLayoutConstraint.Create(SelectUserButton, NSLayoutAttribute.Top, NSLayoutRelation.Equal, View, NSLayoutAttribute.Top, 1, 120),
                 NSLayoutConstraint.Create(SelectUserButton, NSLayoutAttribute.Left, NSLayoutRelation.Equal, View, NSLayoutAttribute.Left, 1, 28),
                 NSLayoutConstraint.Create(SelectUserButton, NSLayoutAttribute.Right, NSLayoutRelation.Equal, View, NSLayoutAttribute.Right, 1, -28),
                 NSLayoutConstraint.Create(SelectUserButton, NSLayoutAttribute.Height, NSLayoutRelation.Equal, null, NSLayoutAttribute.Height, 1, 50),

@@ -49,7 +49,7 @@ namespace ParriotWings.iOS.ViewControllers
         {
             var constraints = new[]
             {
-                NSLayoutConstraint.Create(SearchBar, NSLayoutAttribute.Top, NSLayoutRelation.Equal, View, NSLayoutAttribute.Top, 1, 64),
+                NSLayoutConstraint.Create(SearchBar, NSLayoutAttribute.Top, NSLayoutRelation.Equal, View, NSLayoutAttribute.Top, 1, 120),
                 NSLayoutConstraint.Create(SearchBar, NSLayoutAttribute.Left, NSLayoutRelation.Equal, View, NSLayoutAttribute.Left, 1, 0),
                 NSLayoutConstraint.Create(SearchBar, NSLayoutAttribute.Right, NSLayoutRelation.Equal, View, NSLayoutAttribute.Right, 1, 0),
                 NSLayoutConstraint.Create(SearchBar, NSLayoutAttribute.Height, NSLayoutRelation.Equal, null, NSLayoutAttribute.Height, 1, 50),
